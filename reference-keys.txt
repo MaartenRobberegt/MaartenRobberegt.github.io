@@ -1,0 +1,7 @@
+portfolio
+intro
+curriculum-vitae
+opleidingen
+werkervaring
+cursussen
+hobbies
